@@ -21,9 +21,11 @@ Invite me to the GitHub Organization <br />
 
 <br />
 
-Join our conversation on discord <br />
+Join our conversation on discord 
+<br />
+ 
 <a href="https://discord.com/invite/RATJsSGM9d">
-    <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" target="blank" />
+   <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" target="blank" />
 </a>
 
 
