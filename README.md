@@ -19,3 +19,11 @@ Have something on your mind? Go to Discussions section
 Invite me to the GitHub Organization <br />
 > Please see <a href="https://github.com/Surpath-Community/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+community%22">examples</a> here.
 
+<br />
+
+Join our conversation on discord <br />
+<a href="https://discord.com/invite/RATJsSGM9d">
+    <img src="https://img.shields.io/discord/790101969413865472?logo=discord&style=for-the-badge" target="blank" />
+</a>
+
+
