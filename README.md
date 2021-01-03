@@ -11,8 +11,10 @@ Members of the community will be able to get a chance to get swags, to join some
 ## Guide
 - Actions go under <a href="https://github.com/Surpath-Community/Support/issues">issues</a>
 
+<br />
+
 Have something on your mind? Go to Discussions section
-> https://github.com/surpathcommunity/support/discussions
+> Visit our <a href="https://github.com/surpathcommunity/support/discussions">Support Discussions</a>
 
 <br />
 
