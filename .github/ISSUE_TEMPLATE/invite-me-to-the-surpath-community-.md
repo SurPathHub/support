@@ -1,5 +1,5 @@
 ---
-name: Invite me to the Surpath Community.
+name: Invite me to the SurPath Hub Community.
 about: I would like to be part of the awesome community
 title: ''
 labels: invite me to the community
@@ -19,6 +19,8 @@ Invite me to the Surpath Community.
 <!--Some Details-->
 
 - #### Name:
+
+- #### Country:
 
 - #### Discord Username(if exists):
 
