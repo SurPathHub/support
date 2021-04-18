@@ -1,6 +1,6 @@
 # Community Support
 
-Open Source is for everyone, it doesn't matter who you are, everyone will love you, and will appreciate your idea even it is small. Even if you dropout of college because of financial problems or even you have zero knowledge, we will help you to grow and getting you into tech industry.
+Open Source is for everyone, it doesn't matter who you are, everyone will love you, and will appreciate your idea even it is small. Even if you dropout of college because of financial problem or even you have zero knowledge, we will help you to grow and getting you into tech industry.
 
 ```
 Members of the community will be able to get a chance to get swag, to join some events, to get access on learning platforms and etc.
@@ -16,13 +16,27 @@ Join our organization <br />
 
 <hr />
 
-## Need help?
+## Issues
 - Actions go under <a href="https://github.com/SurPathHub/support/issues">issues</a>
+  - Bugs
+  - Review project
+  - Review & help other issues
+  - Add me to the organization
 
-## Have something on your mind? Go to Discussions section
+## Discussions
 - Visit our <a href="https://github.com/SurPathHub/support/discussions">Support Discussions</a>
-
+  - Share ideas
+  - Questions
+  - Open discussion
+  - Join conversation
+  
 <br />
+
+## Follow Us
+<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vinzvinci.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 <hr/>
 
