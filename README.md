@@ -12,7 +12,7 @@ Members of the community will be able to get a chance to get swag, to join some 
 Join our organization <br />
 > Please see <a href="https://github.com/SurPathHub/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+community%22">examples</a> here.
 
-Note: Only people from the Philippines are allowed to join this organization but anyone can help to improve our projects.
+**Note:** Only people from the **Philippines** are allowed to join in this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our international open-source community, and anyone can join.
 
 <hr />
 
