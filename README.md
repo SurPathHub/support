@@ -10,17 +10,17 @@ Members of the community will be able to get a chance to get swag, to join some 
 ## Guide
 
 Join our organization <br />
-> Please see <a href="https://github.com/Surpath-Community/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+community%22">examples</a> here.
+> Please see <a href="https://github.com/SurPathHub/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+community%22">examples</a> here.
 
 Note: Only people from the Philippines are allowed to join this organization but anyone can help to improve our projects.
 
 <hr />
 
 ## Need help?
-- Actions go under <a href="https://github.com/Surpath-Community/Support/issues">issues</a>
+- Actions go under <a href="https://github.com/SurPathHub/support/issues">issues</a>
 
 ## Have something on your mind? Go to Discussions section
-- Visit our <a href="https://github.com/surpathcommunity/support/discussions">Support Discussions</a>
+- Visit our <a href="https://github.com/SurPathHub/support/discussions">Support Discussions</a>
 
 <br />
 
