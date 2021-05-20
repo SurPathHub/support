@@ -12,7 +12,7 @@ Members of the community will be able to get a chance to get swag, to join some 
 Join our organization <br />
 > Please see <a href="https://github.com/SurPathHub/support/issues/1">examples</a> here.
 
-**Note:** Only people from the **Philippines** are allowed to join in this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
+**Note:** Only people from the **Philippines** are allowed to join this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
 
 <hr />
 
@@ -48,3 +48,4 @@ Join our conversation on discord
 </a>
 </p>
 
+<p align="center">Only people from Philippines can join our discord server</p>
