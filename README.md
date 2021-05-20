@@ -35,6 +35,9 @@ Join our organization <br />
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines">hacktoberfest-philippines</a>
 - <a href="https://github.com/SurPathHub/github-profile-ph">github-profile-ph</a>
 
+## How to Contribute?<br>
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the <a href="CONTRIBUTING.md">contributing guidelines.</a>
+
 <hr />
 
 ## Follow Us
