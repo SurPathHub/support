@@ -1,6 +1,6 @@
 ---
 name: 'Open Source Review '
-about: 'Please review my open source '
+about: 'Please review my open source project'
 title: ''
 labels: open source review
 assignees: ''
