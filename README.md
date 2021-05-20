@@ -21,7 +21,7 @@ Join our organization <br />
   - Bugs
   - Review project
   - Review & help other issues
-  - Add me to the organization
+  - Request to join this community
 
 ## Discussions
 - Visit our <a href="https://github.com/SurPathHub/support/discussions">Support Discussions</a>
@@ -29,8 +29,13 @@ Join our organization <br />
   - Questions
   - Open discussion
   - Join conversation
-  
-<br />
+
+## Repositories for beginner:
+- <a href="https://github.com/SurPathHub/starter-kit">starter-kit
+- <a href="https://github.com/SurPathHub/hacktoberfest-philippines">hacktoberfest-philippines</a>
+- <a href="https://github.com/SurPathHub/github-profile-ph">github-profile-ph</a>
+
+<hr />
 
 ## Follow Us
 <a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
