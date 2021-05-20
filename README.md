@@ -38,6 +38,9 @@ Join our organization <br />
 ## How to Contribute?<br>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the <a href="CONTRIBUTING.md">contributing guidelines.</a>
 
+## Additional
+If you'd like to tell the world which organizations you belong to, you can display the avatars of the organizations on your profile. <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership">Click me</a> for example. 
+
 <hr />
 
 ## Follow Us
