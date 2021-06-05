@@ -14,6 +14,8 @@ Join our organization <br />
 
 **Note:** Only people from the **Philippines** are allowed to join this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
 
+#### Some repositories are private and only accessible to the members :octocat:
+
 <hr />
 
 ## Issues
@@ -21,7 +23,7 @@ Join our organization <br />
   - Bugs
   - Review project
   - Review & help other issues
-  - Request to join this community
+  - Request to <a href="https://github.com/SurPathHub/support/issues/new/choose">join this community</a>
 
 ## Discussions
 - Visit our <a href="https://github.com/SurPathHub/support/discussions">Support Discussions</a>
