@@ -10,7 +10,7 @@ jobs:
         uses: vj-abigo/invite-on-label@v1.2
         with:
           organization: SurPathHub
-          label: invite me to the community
+          label: request: community invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: '![welcome](https://user-images.githubusercontent.com/73097560/121835696-761b5c80-cd04-11eb-9d9c-6a4f6fb07724.gif)
 <br><b>This is an invitation sent for the GitHub Organisation. Welcome to the SurPath Hub Community 🎉 You now have access to the private repository, feel free to explore and contribute!</b>'
