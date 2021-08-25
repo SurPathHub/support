@@ -37,6 +37,12 @@ Join our organization <br />
 - <a href="https://github.com/SurPathHub/hacktoberfest-philippines">hacktoberfest-philippines</a>
 - <a href="https://github.com/SurPathHub/github-profile-ph">github-profile-ph</a>
 
+## Code Snippets for Markdown and Discord
+- [creating-and-highlighting-code-blocks](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+- [how-to-add-color-to-messages-on-discord](https://www.online-tech-tips.com/software-reviews/how-to-add-color-to-messages-on-discord/)
+  
+> Or use [GitHub Gist](https://gist.github.com/) to instantly share your code snippets 
+
 ## How to Contribute?<br>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Be sure to check the <a href="CONTRIBUTING.md">contributing guidelines.</a>
 
