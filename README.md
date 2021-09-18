@@ -6,13 +6,12 @@ Open Source is for everyone, it doesn't matter who you are, everyone will love y
 Members of the community will be able to get a chance to get swag, to join some events, to get access on learning platforms and etc.
 ```
 
-
 ## Guide
 
 Join our organization <br />
 > Please see <a href="https://github.com/SurPathHub/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22request%3A-community+invitation%22">examples</a> here.
 
-**Note:** Only people from the **Philippines** are allowed to join this organization and be part in our project, but anyone can help to improve our project. Don't worry, we have <a href="https://github.com/EddieHubCommunity/support">EddieHub</a> Community: this is our global open-source community, and anyone can join.
+**Note:** Anyone can help improve our projects, but only those residing in the Philippines are encouraged to join our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
 
 #### Some repositories are private and only accessible to the members :octocat:
 
