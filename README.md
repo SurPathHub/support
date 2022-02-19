@@ -11,7 +11,7 @@ Members of the community will be able to get a chance to get swag, to join some 
 Join our organization <br />
 > Please see <a href="https://github.com/SurPathHub/support/issues?q=is%3Aissue+is%3Aclosed+label%3Arequest-invitation">examples</a> here.
 
-**Note:** Anyone can help improve our projects, but only those residing in the Philippines are encouraged to join our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
+**Note:** Anyone can help improve our projects, but only those residing in the Asia region are encouraged to join our organization and participate in our events. We have [EddieHub Community](https://www.eddiehub.org/) as our global, open-source community for everyone.
 
 #### Some repositories are private and only accessible to the members :octocat:
 
